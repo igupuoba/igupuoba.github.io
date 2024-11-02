@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://igupuoba.github.io/BRQ/sitemap_index.txt
+Sitemap: https://igupuoba.github.io/dQG/sitemap_index.txt
+Sitemap: https://igupuoba.github.io/sJd/sitemap_index.txt
+Sitemap: https://igupuoba.github.io/yPX/sitemap_index.txt
